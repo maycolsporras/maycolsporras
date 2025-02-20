@@ -8,7 +8,7 @@
 
 I am a software development student & electronic engineer , currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
-  - TypeScript
+  - Typescript
   - C
 - 👨‍💻 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
