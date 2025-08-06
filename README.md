@@ -53,10 +53,10 @@ I am a software development student & electronic engineer , currently halfway th
 
 ## Check out my Social Media
 
-<a href= "https://www.instagram.com/maycol_pa/">
+<a href= "https://www.instagram.com/maycol_pa/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/maycol-porras-18756125b/" >
+<a href="https://www.linkedin.com/in/maycol-porras-18756125b/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
