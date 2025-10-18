@@ -37,10 +37,10 @@ I am a software development student & electronic engineer , currently halfway th
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
   <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7">
