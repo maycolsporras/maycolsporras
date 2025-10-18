@@ -22,8 +22,6 @@ I am a software development student & electronic engineer , currently halfway th
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
   
@@ -36,6 +34,8 @@ I am a software development student & electronic engineer , currently halfway th
 <h4> Other Tools and Technologies </h4>
 <span>
   
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
   <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
